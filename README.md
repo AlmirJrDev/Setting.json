@@ -1,4 +1,6 @@
-# Setting.json
+# Setting.js
+
+```
 {
     "emmet.syntaxProfiles": {
       "javascript": "jsx"
@@ -238,3 +240,4 @@
       "plist"
     ]
   }
+```
